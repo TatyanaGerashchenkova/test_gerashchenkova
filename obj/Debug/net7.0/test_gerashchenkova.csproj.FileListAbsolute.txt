@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\bin\Debug\net7.0\test_gerashchenkova.exe
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\bin\Debug\net7.0\test_gerashchenkova.deps.json
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\bin\Debug\net7.0\test_gerashchenkova.runtimeconfig.json
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\bin\Debug\net7.0\test_gerashchenkova.dll
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\bin\Debug\net7.0\test_gerashchenkova.pdb
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.dll
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\refint\test_gerashchenkova.dll
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.pdb
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\test_gerashchenkova.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\test_main_block_gerashchenkova\test_gerashchenkova\obj\Debug\net7.0\ref\test_gerashchenkova.dll
